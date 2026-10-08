@@ -3,8 +3,6 @@
 ## Project Overview
 
 **Project Title:** Retail Sales Analysis\
-**Level:** Beginner\
-**Database:** `p1_retail_db`\
 **Tools:** MySQL, MySQL Workbench
 
 This project focuses on analyzing retail sales data using **MySQL**. The
