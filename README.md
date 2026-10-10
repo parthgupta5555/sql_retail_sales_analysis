@@ -37,7 +37,6 @@ The `retail_sales` table contains the following columns:
 | `cogs` | Cost of goods sold |
 | `total_sale` | Total sales amount for the transaction |
 
-**Dataset note:** Add the dataset source here if it came from a public source. Check the source's terms before sharing the dataset file itself.
 
 ## Data Cleaning
 
@@ -146,7 +145,7 @@ Customer-level analysis identifies which customers contribute the most gross pro
 **Parth Gupta**  
 B.Tech Computer Science and Engineering
 
-- GitHub: [your GitHub profile](https://github.com/your-username)
-- LinkedIn: [your LinkedIn profile](https://www.linkedin.com/in/your-profile/)
+- GitHub: [your GitHub profile](https://github.com/parthgupta5555)
+- LinkedIn: [your LinkedIn profile](www.linkedin.com/in/parth-gupta-567529326)
 
 Replace the placeholder profile URLs above with your actual links before publishing.
