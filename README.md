@@ -145,7 +145,3 @@ Customer-level analysis identifies which customers contribute the most gross pro
 **Parth Gupta**  
 B.Tech Computer Science and Engineering
 
-- GitHub: [your GitHub profile](https://github.com/parthgupta5555)
-- LinkedIn: [your LinkedIn profile](www.linkedin.com/in/parth-gupta-567529326)
-
-Replace the placeholder profile URLs above with your actual links before publishing.
