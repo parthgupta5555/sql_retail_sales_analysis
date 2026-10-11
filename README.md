@@ -140,6 +140,14 @@ Customer-level analysis identifies which customers contribute the most gross pro
 - Explore purchasing patterns by customer age group.
 - Add screenshots of query results and document further findings.
 
+📸 Project Screenshots
+
+<p align="center">
+  <img src="Screenshots/Category_Profitability.png" alt="Category Profitability Analysis" width="48%"/>
+  &nbsp;&nbsp;
+  <img src="Screenshots/Peak_sales_hours.png" alt="Peak Sales Hours Analysis" width="48%"/>
+</p>
+
 ## Author
 
 **Parth Gupta**  
